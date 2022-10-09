@@ -5,4 +5,5 @@ Sheepy is a short, easy platformer game published on Steam and Itch by Eksperime
 
 In progress.
 
+Deployed on Netlify at https://prismatic-marzipan-fe3e6c.netlify.app
 
