@@ -1,6 +1,7 @@
 * {
     margin: 0;
     padding: 0;
+    /* box-sizing: border-box; */
     overflow-x: hidden;
 }
 
@@ -55,7 +56,9 @@ p {
 }
 
 .splash img{
-    width: 350px;
+    width: 98%;
+    /* margin-right: .5rem; */
+    /* width: 350px; */
     border-radius: 15px;
     border: solid 3px darkgreen;
 }
@@ -72,6 +75,7 @@ p {
     display: flex;
     flex-direction: column;
     align-self: center;
+    width: 98%;
 }
 
 .credits {   
