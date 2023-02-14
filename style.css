@@ -88,3 +88,14 @@ p {
     border: solid 3px darkgreen;
 }
 
+@media (min-width: 800px) {
+    .content {
+        display: grid;
+        gap: 20px; 
+        grid-template-columns: 1fr 2fr;
+        grid-template-rows: 1fr;
+        padding: 1rem;
+        width: 90vw;
+    }
+}
+
